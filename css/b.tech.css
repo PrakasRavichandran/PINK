@@ -1,0 +1,95 @@
+.fixed-nav-bar {
+    position:absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    z-index: 9999;
+    width:auto;
+    background-color: #667eea;
+    border-radius: 10px;
+}
+
+.fa {
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    border-radius: 90%;
+}
+
+.fa-facebook {
+    color: #4267B2;
+    
+}
+
+.fa-instagram {
+    color: transparent;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+
+.fa-linkedin {
+    color: #0072b1;
+}
+
+.fa-envelope {
+    color: #006efffd;
+}
+
+.fa-twitter {
+    color: #00acee;
+}
+#mainNavbar {
+    font-size: 1rem;
+    font-weight: 100;
+}
+.navbar.scrolled {
+    background: #667eea;
+    transition: background 100ms;
+}
+#img-hover {
+    width: 260px;
+    height: 270px;
+}
+h1 {
+    color: #667eea;
+}
+
+.branch {
+    border-radius: 50%;
+}
+.EEE {
+    border-radius: 10PX;
+}
+.civil {
+    border-radius: 10%;
+}
+
+hr {
+    border: 2px solid  #667eea;
+    
+}
+Cimage {
+    max-width: 720px;
+    max-height: 400px;
+}
+.fa-facebook:hover {
+    color: #ffffff;
+}
+.fa-instagram:hover {
+    color: #ffffff;
+}
+.fa-linkedin:hover {
+    color: #ffffff;
+}
+.fa-envelope:hover {
+    color: #ffffff;
+}
+.fa-twitter:hover {
+    color: #ffffff;
+}
+.center1:hover {
+    color: #000000;
+} 

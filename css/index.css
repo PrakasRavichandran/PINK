@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body 
+{
+  font-family: 'Poppins', sans-serif;
+  background: #1A202C;
+}
+.fa {
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    border-radius: 90%;
+}  
+#footer{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+}
+.bg-gray-800{
+    border-top-left-radius: 30px ;
+    border-top-right-radius: 30px;
+}
+.p {
+    text-align: center;
+}
+.fa-facebook {
+    color: #4267B2;
+    
+}
+
+.fa-instagram {
+    color: transparent;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+
+.fa-linkedin {
+    color: #0072b1;
+}
+
+.fa-envelope {
+    color: #006efffd;
+}
+
+.fa-twitter {
+    color: #00acee;
+}
+
+.fixed-nav-bar {
+    position:absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    z-index: 9999;
+    width:auto;
+    background-color: #667eea;
+    border-radius: 10px;
+}
+
+.btn {
+    background-color: #667eea;
+}
+.dp {
+    margin-right: 0px;
+    padding-left: 2rem;
+    margin-bottom: 5px;
+}
+#img-hover {
+    width: 260px;
+    height: 270px;
+}
+hr {
+    border: 2px solid  #667eea;
+    margin-left: 280px;
+    margin-right: 280px;
+    border-radius: 60%;
+}
+Cimage {
+    max-width: 720px;
+    max-height: 400px;
+}
+.fa-facebook:hover {
+    color: #ffffff;
+}
+.fa-instagram:hover {
+    color: #ffffff;
+}
+.fa-linkedin:hover {
+    color: #ffffff;
+}
+.fa-envelope:hover {
+    color: #ffffff;
+}
+.fa-twitter:hover {
+    color: #ffffff;
+}
+.center1:hover {
+    color: #000000;
+}   
+    
