@@ -1,0 +1,108 @@
+.fixed-nav-bar {
+    position:absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    z-index: 9999;
+    width:auto;
+    background-color: #667eea;
+    border-radius: 10px;
+}
+
+.fa {
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    border-radius: 90%;
+}
+.paddi1{
+    padding-left:45%;
+}
+.paddi2{
+    padding-left: 30%;
+}
+.rang{
+    color:rgb(255, 123, 0);
+}
+
+.fa-facebook {
+    color: #646979;
+    
+}
+
+
+.fa-instagram {
+    color: #646979;
+}
+
+.fa-linkedin {
+    color: #646979;
+}
+
+.fa-github {
+    color: #646979;
+}
+
+.fa-twitter {
+    color: #646979;
+}
+#mainNavbar {
+    font-size: 1rem;
+    font-weight: 100;
+}
+.navbar.scrolled {
+    background: #667eea;
+    transition: background 100ms;
+}
+#img-hover {
+    width: 260px;
+    height: 270px;
+}
+h1 {
+    color: #667eea;
+}
+
+.branch {
+    border-radius: 50%;
+}
+.EEE {
+    border-radius: 20%;
+}
+.civil {
+    border-radius: 10%;
+}
+
+hr {
+    border: 2px solid  #667eea;
+    
+}
+Cimage {
+    max-width: 720px;
+    max-height: 400px;
+}
+.fa-facebook:hover {
+    color: #ffffff;
+}
+.fa-instagram:hover {
+    color: #ffffff;
+}
+.fa-linkedin:hover {
+    color: #ffffff;
+}
+.fa-github:hover {
+    color: #ffffff;
+}
+.fa-twitter:hover {
+    color: #ffffff;
+
+}
+.card-header{
+    background:rgb(66, 8, 121);
+    color:white;
+}
+.card-body{
+    color:black;
+}
+.card{
+    margin-top:15px;
+}
