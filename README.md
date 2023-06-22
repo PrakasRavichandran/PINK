@@ -1,6 +1,6 @@
 ## PINK - The Department Website For KRCT
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPrakasRavichandran%2FPINk&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPrakasRavichandran%2FPINK&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 
 This PINK - The Department Website is a fully responsive website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
